@@ -1,2 +1,2 @@
 # Curso de C/C++
- Meu curso de C/C++
+ Curso feito com as aulas do professor Jhon Haste na Udemy
