@@ -22,4 +22,7 @@ void main(){
     // Pula linhas
     printf("\n");
     printf("\nA média é = %.2f", soma / tamanho);
+
+    system("pause");
+
 }
