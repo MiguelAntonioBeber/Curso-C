@@ -22,4 +22,7 @@ void main(){
     }else {
         printf("\nTriangulo escaleno.");
     }
+
+    system("pause");
+
 }
